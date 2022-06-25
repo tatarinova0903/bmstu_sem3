@@ -1,0 +1,3 @@
+Input floating number in exponential form with big E:
+            ______________________________E_____
+Input num1: Input num2: It is impossible to get the result
